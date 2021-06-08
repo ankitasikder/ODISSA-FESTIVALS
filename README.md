@@ -8,7 +8,8 @@
 
 **Contact No: 918583939774** 
 
-[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
+
+[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/ankita.sikder.104) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/ankitasikder) [![Generic badge](https://img.shields.io/badge/Contact%20me-Instagram-ff69b4)](https://www.instagram.com/ankita.sikder14)
 
 ## About :point_down: 
 Odisha Odia: , formerly Orissa, is an Indian state located in Eastern India. It is the 8th largest state by area, and the 11th largest by population. The state has the third largest population of Scheduled Tribes in India. It neighbours the states of West Bengal and Jharkhand to the north, Chhattisgarh to the west, and Andhra Pradesh to the south. Odisha has a coastline of 485 kilometres (301 mi) along the Bay of Bengal. The region is also known as Utkala and is mentioned in India's national anthem, "Jana Gana Mana". The language of Odisha is Odia, which is one of the Classical Languages of India.
