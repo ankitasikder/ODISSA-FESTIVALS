@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) 
 
-***This new Web application is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Website based on Odissa' Festivals is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: ankita.sikder14@gmail.com** 
 
