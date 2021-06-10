@@ -83,7 +83,7 @@ I have made this website with HTML5 only. For references for Orisha and Orisha's
 
 <a href="odi3.PNG"><img src="odi3.PNG" width="400" height= "250"></a> <a href="odi4.PNG"><img src="odi4.PNG" width="400" height= "250"></a>
 
-<a href="odi5.PNG"><img src="odi5.PNG" width="400" height= "250"></a>
+<a href="odi5.PNG"><img src="odi5.PNG" width="800" height= "250"></a>
 </div>
 
 
